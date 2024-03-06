@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NetworkApp</string>
+    <string name="title">Title</string>
+    <string name="text">Text</string>
+    <string name="edit_button">Edit</string>
+    <string name="content">Message</string>
+    <string name="save">Save</string>
+    <string name="posts">Posts</string>
+</resources>
